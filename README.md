@@ -16,5 +16,6 @@ $ git commit -m "commit incial"
 5. # subimos los cambios en la rama 'main' a github
 git push origin main
 
+6. # para ignorar el archivo y carpeta indicados, simplemente se crea un archivo en nuestro proyecto llamado .gitignore y ahi especificar los archivos que queremos ignorar.
 
 
