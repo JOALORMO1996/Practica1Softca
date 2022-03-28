@@ -13,6 +13,8 @@ $ git add README.md
 4. # para hacer nuestro commit 
 $ git commit -m "commit incial"
 
+5. # subimos los cambios en la rama 'main' a github
+git push origin main
 
 
 
